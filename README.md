@@ -87,20 +87,20 @@ I enjoy building products that solve real-world problems and teaching technical 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,claude" />
 </p>
 
 ### Currently Exploring
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,keras,numpy,pandas" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎟️ Eventra — Full Stack Event Booking Platform
+### 🎟️ Eventra — Full Stack Event Booking Platform 
 
 - MERN Stack Application
 - JWT Authentication
@@ -120,7 +120,7 @@ I enjoy building products that solve real-world problems and teaching technical 
 
 ### 🌐 Portfolio Website
 
-- Built using Next.js & Tailwind CSS
+- Built using Node.js & Tailwind CSS
 - Responsive UI
 - Deployed on Vercel
 
@@ -166,7 +166,7 @@ I enjoy building products that solve real-world problems and teaching technical 
 
 <p align="center">
 
-<a href="https://leetcode.com/u/satisfire28/">
+<a href="https://leetcode.com/u/satis_fire_28/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
