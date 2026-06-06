@@ -1,85 +1,197 @@
-# Pathos Logos Ethos
+<h1 align="center">Hi 👋, I'm Vishal Lodhi</h1>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
+<h3 align="center">
+Final Year Computer Engineering Student @ NIAMT Ranchi (Formerly NIFFT) <br>
+Full Stack Web Developer | AI Enthusiast | Problem Solver
+</h3>
 
-</br>
-</br>
-</br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Computer+Engineering+Student;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
+---
 
-# About ME 💬 :
+## 🚀 About Me
 
-### - I'm 22 years final year Computer Engg. undergrad from INDIA.
+🎓 Final Year **Computer Engineering** Student at **NIAMT Ranchi (Formerly NIFFT)**
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+💻 Passionate about **Full Stack Development, Artificial Intelligence, and Problem Solving**
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Deep Learning 
+🌱 Currently learning:
+- Advanced Backend Development
+- Machine Learning & Deep Learning
+- System Design
+- Scalable Web Applications
 
-### - Hobbies : 
-- ✨ I Read sometimes
-- ✨ I love teaching 
-- ✨ Sometimes play volleyball
-- ✨ whatever I love 
+🏆 Achievements:
+- Aspire Scholarship Recipient (Selected among 28 students across India)
+- Best Startup Pitch Award Winner
+- 2nd Runner-Up – NIDAR National Drone Competition (300+ Teams)
+- 3rd Prize – Research-Based Presentation Competition at NIT Jamshedpur
+- Winner – Technical Presentation Competition (JINKS Pranav Technical Fest)
+- Qualified UPSC NDA Written Examination Twice (NDA-148 & NDA-149)
 
-</br>
-</br>
-</br>
+⚡ Fun Fact:
+I enjoy building products that solve real-world problems and teaching technical concepts to others.
 
+---
 
+## 🌐 Portfolio & Profiles
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+<p align="center">
+<a href="https://vishal-lodhi-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishallodhi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lodhivishal286@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/satisfire28">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎟️ Eventra — Full Stack Event Booking Platform
+
+- MERN Stack Application
+- JWT Authentication
+- Role-Based Admin Dashboard
+- MongoDB Integration
+- Automated Email Notifications using Nodemailer
+- Responsive React Frontend
+
+### 💬 Real-Time Chat Application
+
+- MERN Stack + Socket.io
+- JWT Authentication
+- Real-Time Messaging
+- Online User Tracking
+- Zustand State Management
+- Cloudinary Media Support
+
+### 🌐 Portfolio Website
+
+- Built using Next.js & Tailwind CSS
+- Responsive UI
+- Deployed on Vercel
+
+### 🚁 Smart Agriculture Drone Vision System
+
+- Computer Vision for Precision Agriculture
+- OpenCV-Based Crop Monitoring
+- Mapping & Obstacle Detection
+- AI-Assisted Analysis
+
+---
+
+## 📚 Relevant Coursework
+
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- Database Management Systems
+- Object-Oriented Programming
+- Machine Learning Fundamentals
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satisfire28&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satisfire28&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=satisfire28&theme=tokyonight" />
+</p>
+
+---
+
+## 🏅 Coding Profiles
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<a href="https://leetcode.com/u/satisfire28/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
-</br>
-</br>
-</br>
 
+---
 
+## 🤝 Let's Connect
 
-# Contact Me :
+I'm always interested in:
 
-<p>
- </br>
+- Full Stack Development
+- Open Source Collaboration
+- AI & Machine Learning Projects
+- Startup Ideas & Innovation
+- Technical Communities
 
+📧 **Email:** lodhivishal286@gmail.com
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+🌐 **Portfolio:** https://vishal-lodhi-portfolio.vercel.app/
 
-<a href="lodhivishal286@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/vishallodhi/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
+💼 **LinkedIn:** https://www.linkedin.com/in/vishallodhi/
 
+---
 
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
