@@ -93,7 +93,10 @@ I enjoy building products that solve real-world problems and teaching technical 
 ### Currently Exploring
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,keras,numpy,pandas" />
+Whatever required in my internship and Projects. 
+  For myself : 
+  <img width="498" height="278" alt="StandingOvationGIF" src="https://github.com/user-attachments/assets/760cdffb-6433-4e81-8f79-ec4813c58698" />
+
 </p>
 
 ---
